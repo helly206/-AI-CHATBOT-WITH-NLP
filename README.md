@@ -40,6 +40,10 @@ ChatBuddy is a mini rule-based **GUI chatbot** built using Python, NLTK, and Tki
 4. The bot checks the message, detects your intent, and replies.
 5. Replies appear with colored formatting and a timestamp.
 
+***Note*** 
+This chatbot is rule-based, so if you ask something outside of its trained responses or logic,
+it will treat it as unknown talk and give a default reply.
+
 ***OUTPUT***
 
 ![Image](https://github.com/user-attachments/assets/7d696893-4d32-4f42-b48e-32e424d7be65)
