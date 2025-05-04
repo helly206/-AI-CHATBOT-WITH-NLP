@@ -43,6 +43,7 @@ ChatBuddy is a mini rule-based **GUI chatbot** built using Python, NLTK, and Tki
 ***Note*** 
 - This chatbot is rule-based, so if you ask something outside of its trained responses or logic,
 it will treat it as unknown talk and give a default reply.
+-  It also uses emojis to make the conversation more friendly and fun!
 
 ***OUTPUT***
 
