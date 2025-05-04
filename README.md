@@ -44,4 +44,6 @@ pip install nltk
 
 ***OUTPUT***
 
+![Image](https://github.com/user-attachments/assets/7d696893-4d32-4f42-b48e-32e424d7be65)
+
 
