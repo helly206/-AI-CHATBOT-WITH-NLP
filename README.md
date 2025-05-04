@@ -30,8 +30,8 @@ ChatBuddy is a mini rule-based **GUI chatbot** built using Python, NLTK, and Tki
 - Styled interface with colored messages
 - 
 ***How to Run***
-#### 1. Install Required Library
-If you don't have `nltk`, install it using:
+1. Install Required Library
+2.If you don't have `nltk`, install it using:
 ```bash
 pip install nltk
 
